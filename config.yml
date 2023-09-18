@@ -1,8 +1,8 @@
+languageCode: en-us
 baseURL: "https://www.prashantkatiyar.com/"
 title: Prashant Katiyar
 paginate: 5
 theme: PaperMod
-publishDir: "docs"
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -43,22 +43,24 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "nihar.jpg"
-    favicon16x16: "nihar.jpg"
-    favicon32x32: "nihar.jpg"
-    apple_touch_icon: "nihar.jpg"
-    safari_pinned_tab: "nihar.jpg"
+    favicon: "prashant.png"
+    favicon16x16: "prashant.png"
+    favicon32x32: "prashant.png"
+    apple_touch_icon: "prashant.png"
+    safari_pinned_tab: "prashant.png"
     disableFingerprinting: true
 
   label:
     text: "k.prashant__"
+    icon: "images/prashant c.png"
+    iconHeight: 28
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Prashant Katiyar"
     subtitle: "Tech Founder & Product Manager"
-    imageUrl: "nihar.jpg"
+    imageUrl: "images/prashant.png"
     imageWidth: 180
     imageHeight: 180
     imageTitle: "Tech Founder - PM"
@@ -72,7 +74,7 @@ params:
       - name: Blogs
         url: blogs
       - name: Talks & Events
-        url: talks-and-events
+        url: talks-and-workshops
 
 
   socialIcons:
@@ -136,7 +138,7 @@ menu:
       weight: 4
     - identifier: talks
       name: Talks & Events
-      url: /talks-and-events
+      url: /talks-and-workshops
       weight: 5
 
 markup:

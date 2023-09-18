@@ -1,6 +1,8 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+url: 
+hidemeta: true
+disableshare: true
+summary: 
 draft: true
 ---
-
