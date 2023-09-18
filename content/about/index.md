@@ -1,33 +1,39 @@
 ---
-title: "About"
-date: 2022-04-09T23:15:00+07:00
-slug: about
-category:
-summary:
-description: 
-cover:
-  image:
-  alt:
-  caption: 
-  relative: true
-showtoc: false
-draft: false
+title: "About" # in any language you want
+layout: "about" # is necessary
+language: en
+url: "/about"
+summary: About
+
+comments: false
 ---
 
-In my daytime, I work as a Developer Advocate at a US Tech company. 
+Hi, I'm Prashant Katiyar, a seasoned **Tech Founder** and **Product Manager** with over 2.5 years of in-depth experience in a diverse range of industries including Developer Tools, HR Tech, E-Commerce, and the emerging world of Web3. I pride myself on having successfully raised significant capital and establishing pivotal partnerships, steering agile teams toward market leadership and exponential user growth.
 
-At night, I'm a content creator developing tutorials in data science for the following platforms:
-- 📺 **YouTube**: [**Data Professor**](https://youtube.com/dataprofessor/), [**Coding Professor**](https://youtube.com/codingprofessor/)
-- 📝 [**Medium Blogs**](https://data-professor.medium.com/).
-- 💻 [**GitHub**](https://github.com/dataprofessor/)
+## Expertise
 
-In my previous role, I was an Associate Professor of Bioinformatics carrying out research in computational drug discovery:
-- [**Google Scholar**](https://scholar.google.com/citations?user=df-l7zQAAAAJ&hl=en)
-- [**ORCID**](https://orcid.org/0000-0003-1040-663X)
-- [**SCOPUS**](https://www.scopus.com/authid/detail.uri?authorId=12039071300)
-- [**ResearchGate**](https://www.researchgate.net/profile/Chanin-Nantasenamat-2)
-- **GitHub**: [**chaninn**](https://github.com/chaninn/), [**chaninlab**](https://github.com/chaninlab/)
+- Confluence, Jira, Trello, Notion, Miro, Amplitude, Mixpanel, Metabase, CleverTap, Google Analytics
+- Balsamiq, Lucid Charts, Figma, Canva, Retool
+- SQL, C, C++, Javascript, Typescript, Python, Bash
+- ReactJS, NextJS, Tailwind, NodeJS, ExpressJS, MongoDB, DynamoDB, AWS, Docker
+- Product Strategy, Business Analysis, User Research, Persona Creation, Wireframing, Mockups, PRD,
+Product Roadmap, Agile Methodology, Sprint Planning, TDD, Risk Management. UAT, A/B Testing, Product Analytics, Success Metrics, KPIs
 
-You can also connect with me at the following social platforms:
-- [**Twitter**](https://twitter.com/thedataprof)
-- [**LinkedIn**](https://www.linkedin.com/in/chanin-nantasenamat/)
+## Noteworthy Achievements
+
+- Top 30 Finalist in the **HYSEA 10X Product Awards**, Hyderabad (2023)
+- Top 5 Finalist at **EO GSEA Awards** in both Goa & New Delhi (2023)
+- Founded a dynamic community of **9500+ Developers** (IIITians Network) from IITs/IIITs (2021 — 2022)
+
+## Beyond the Desk
+
+### Travel and Exploration
+
+Away from tech, I recharge through travel—either alone or with loved ones. These journeys are more than escapes; they've been the catalyst for my startup. Each trip offers cultural insights and valuable learnings. In downtime, I delve into books and case studies focused on emerging business and finance trends.
+
+
+### Musical Escapes
+
+Music is my refuge. Especially, the pulsating rhythms of EDM resonate with me. It's a fervent wish of mine to be swept up in the magic of an Alan Walker EDM night.
+
+Open to connect to discuss tech, travel, or even the latest EDM tracks.

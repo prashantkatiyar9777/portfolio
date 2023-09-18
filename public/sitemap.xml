@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.prashantkatiyar.com/about/</loc>
-    <lastmod>2022-04-09T23:15:00+07:00</lastmod>
-  </url><url>
     <loc>https://www.prashantkatiyar.com/infographics/</loc>
     <lastmod>2022-04-09T23:15:00+07:00</lastmod>
   </url><url>
@@ -40,6 +37,8 @@
   </url><url>
     <loc>https://www.prashantkatiyar.com/tags/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://www.prashantkatiyar.com/about/</loc>
   </url><url>
     <loc>https://www.prashantkatiyar.com/categories/</loc>
   </url>

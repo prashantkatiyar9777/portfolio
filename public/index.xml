@@ -12,18 +12,6 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Apr 2022 23:15:00 +0700</lastBuildDate><atom:link href="https://www.prashantkatiyar.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://www.prashantkatiyar.com/about/</link>
-      <pubDate>Sat, 09 Apr 2022 23:15:00 +0700</pubDate>
-      
-      <guid>https://www.prashantkatiyar.com/about/</guid>
-      <description>In my daytime, I work as a Developer Advocate at a US Tech company.
-At night, I&amp;rsquo;m a content creator developing tutorials in data science for the following platforms:
-📺 YouTube: Data Professor, Coding Professor 📝 Medium Blogs. 💻 GitHub In my previous role, I was an Associate Professor of Bioinformatics carrying out research in computational drug discovery:
-Google Scholar ORCID SCOPUS ResearchGate GitHub: chaninn, chaninlab You can also connect with me at the following social platforms:</description>
-    </item>
-    
-    <item>
       <title>Infographics</title>
       <link>https://www.prashantkatiyar.com/infographics/</link>
       <pubDate>Sat, 09 Apr 2022 23:15:00 +0700</pubDate>
@@ -88,6 +76,15 @@ As a biologist, I have self-taught myself data science and coding (R and Python)
       
       <guid>https://www.prashantkatiyar.com/page/</guid>
       <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.prashantkatiyar.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.prashantkatiyar.com/about/</guid>
+      <description>About</description>
     </item>
     
   </channel>
