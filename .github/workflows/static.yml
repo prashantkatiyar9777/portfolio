@@ -1,0 +1,31 @@
+name: Hugo CI
+
+on:
+  push:
+    branches:
+      - hugo-source  # change this to match the name of the branch where your Hugo source code is
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Build Hugo Site
+        run: hugo --minify  # add --minify if you want to minify your resources
+
+      - name: Deploy to GitHub Pages
+        if: github.ref == 'refs/heads/hugo-source'  # change this to match the name of the branch where your Hugo source code is
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: main  # specify the branch you want to deploy to
