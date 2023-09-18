@@ -1,0 +1,147 @@
+languageCode: en-us
+baseURL: "https://www.prashantkatiyar.com/"
+title: Prashant Katiyar
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Prashant Katiyar
+  description: "I am **Prashant Katiyar**"
+  keywords: [Blog, Portfolio, Product Manager, Startup Founder, CTO, Developer]
+  author: Prashant Katiyar
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: false
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "prashant.png"
+    favicon16x16: "prashant.png"
+    favicon32x32: "prashant.png"
+    apple_touch_icon: "prashant.png"
+    safari_pinned_tab: "prashant.png"
+    disableFingerprinting: true
+
+  label:
+    text: "k.prashant__"
+    icon: "images/prashant c.png"
+    iconHeight: 28
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: "Prashant Katiyar"
+    subtitle: "Tech Founder & Product Manager"
+    imageUrl: "images/prashant.png"
+    imageWidth: 180
+    imageHeight: 180
+    imageTitle: "Tech Founder - PM"
+    buttons:
+      - name: Resume
+        url: "Prashant_PM_Resume.pdf"
+      - name: About
+        url: about
+      - name: Projects
+        url: projects
+      - name: Blogs
+        url: blogs
+      - name: Talks & Events
+        url: talks-and-workshops
+
+
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/prashant-milan-katiyar/"
+    - name: twitter
+      url: "https://twitter.com/kprashant__"
+    - name: "email"
+      url: "prashant@cometlabs.in"
+    - name: medium
+      url: "https://medium.com/@kprashant"
+    - name: github
+      url: "https://github.com/prashantkatiyar9777"
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+
+  # editPost:
+  #   URL: "https://github.com/<path_to_repo>/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 1
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 2
+    - identifier: posts
+      name: Posts
+      url: /posts
+      weight: 3
+    - identifier: blog
+      name: Blogs
+      url: /blogs/
+      weight: 4
+    - identifier: talks
+      name: Talks & Events
+      url: /talks-and-workshops
+      weight: 5
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
