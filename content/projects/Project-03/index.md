@@ -6,10 +6,10 @@ category: projects
 summary:
 description:
 cover:
-  image:
-  alt:
-  caption:
-  relative: true
+  image: "fampay-cover.png"
+  alt: "fampay website cover"
+#   caption: "Fampay Website Cover"
+  relative: false
 showtoc: true
 draft: false
 ---

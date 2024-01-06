@@ -10,52 +10,69 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Apr 2022 23:15:00 +0700</lastBuildDate><atom:link href="https://www.prashantkatiyar.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Nov 2023 23:15:00 +0700</lastBuildDate><atom:link href="https://www.prashantkatiyar.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Infographics</title>
-      <link>https://www.prashantkatiyar.com/infographics/</link>
-      <pubDate>Sat, 09 Apr 2022 23:15:00 +0700</pubDate>
+      <title>Product Case Study: FamPay App</title>
+      <link>https://www.prashantkatiyar.com/projects/product-case-study-fampay-app/</link>
+      <pubDate>Sun, 26 Nov 2023 23:15:00 +0700</pubDate>
       
-      <guid>https://www.prashantkatiyar.com/infographics/</guid>
-      <description>I also create hand-drawn infographics and illustrations to summarize the key concepts in data science, machine learning and bioinformatics.</description>
+      <guid>https://www.prashantkatiyar.com/projects/product-case-study-fampay-app/</guid>
+      <description>Introduction: FamPay, now rebranded as FamApp is a financial platform designed for the younger generation in India. It focuses on financial inclusion, aiming to provide teenagers and young adults with a seamless and secure way to manage their finances. FamApp offers a unique &amp;ldquo;Spending Account&amp;rdquo; that allows users to save, spend, earn, and learn about money.
+Overview:
+Serviceable Age Group: Open for everyone ages 11 and above. Unique Selling Proposition: India&amp;rsquo;s first-ever doodle card for teens and a spending account without the need for a traditional bank account.</description>
     </item>
     
     <item>
-      <title>How to master Streamlit for Data Science</title>
-      <link>https://www.prashantkatiyar.com/blogs/how-to-master-streamlit-for-data-science/</link>
-      <pubDate>Fri, 08 Apr 2022 23:15:00 +0700</pubDate>
+      <title>The Unique Features of CometLabs Playgrounds</title>
+      <link>https://www.prashantkatiyar.com/blogs/the-unique-features-of-cometlabs-playgrounds/</link>
+      <pubDate>Mon, 09 Oct 2023 23:15:00 +0700</pubDate>
       
-      <guid>https://www.prashantkatiyar.com/blogs/how-to-master-streamlit-for-data-science/</guid>
-      <description>Preview The essential Streamlit for all your data science needs To build a web app you’d typically use such Python web frameworks as Django and Flask. But the steep learning curve and the big time investment for implementing these apps present a major hurdle.
-Streamlit makes the app creation process as simple as writing Python scripts!
-In this article, you’ll learn how to master Streamlit when getting started with data science.</description>
+      <guid>https://www.prashantkatiyar.com/blogs/the-unique-features-of-cometlabs-playgrounds/</guid>
+      <description>CometLabs: Simplifying Developer Hiring CometLabs is not just an online editor but a comprehensive platform that simplifies the hiring process for developers and recruiters. The cloud-based development platform, CometLabs Playgrounds, offers unique features that set it apart from other online editors. Here are some of the innovative features:
+1. In-Browser IDEs for 33+ Technologies CometLabs Playgrounds support over 33+ product-building languages and frameworks, providing a versatile and robust environment for developers to showcase their skills and proof of work through full-stack applications.</description>
     </item>
     
     <item>
-      <title>Towards reproducible computational drug discovery</title>
-      <link>https://www.prashantkatiyar.com/projects/reproducible-computational-drug-discovery/</link>
-      <pubDate>Wed, 06 Apr 2022 23:15:00 +0700</pubDate>
+      <title>Product Case Study: Dunzo App</title>
+      <link>https://www.prashantkatiyar.com/projects/product-case-study-dunzo-app/</link>
+      <pubDate>Sun, 13 Aug 2023 23:15:00 +0700</pubDate>
       
-      <guid>https://www.prashantkatiyar.com/projects/reproducible-computational-drug-discovery/</guid>
-      <description>Abstract The reproducibility of experiments has been a long standing impediment for further scientific progress. Computational methods have been instrumental in drug discovery efforts owing to its multifaceted utilization for data collection, pre-processing, analysis and inference. This article provides an in-depth coverage on the reproducibility of computational drug discovery. This review explores the following topics: (1) the current state-of-the-art on reproducible research, (2) research documentation (e.g. electronic laboratory notebook, Jupyter notebook, etc.</description>
+      <guid>https://www.prashantkatiyar.com/projects/product-case-study-dunzo-app/</guid>
+      <description>Introduction: Dunzo is a hyperlocal delivery service that operates in several major cities in India. The platform allows users to get anything delivered to their doorstep, from groceries and medicines to food and pet supplies. It aims to save users time by taking care of their daily chores and errands.
+Overview:
+Serviceable Cities: Bangalore, Pune, Gurgaon, Hyderabad, Delhi, Chennai, Mumbai. Key Offerings: Grocery, Vegetables, Fruits, Milk, Meat, Fish, Paan Items, and more.</description>
     </item>
     
     <item>
-      <title>ERpred: a web server for the prediction of subtype-specific estrogen receptor antagonists</title>
-      <link>https://www.prashantkatiyar.com/projects/erpred/</link>
-      <pubDate>Tue, 05 Apr 2022 23:15:00 +0700</pubDate>
+      <title>PRD for CometLabs&#39; Code Analysis &amp; Deployment Platform</title>
+      <link>https://www.prashantkatiyar.com/projects/prd-for-cometlabs-code-analysis-and-deployment-platform/</link>
+      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.prashantkatiyar.com/projects/erpred/</guid>
-      <description>Abstract Estrogen receptors alpha and beta (ERα and ERβ) are responsible for breast cancer metastasis through their involvement of clinical outcomes. Estradiol and hormone replacement therapy targets both ERs, but this often leads to an increased risk of breast and endometrial cancers as well as thromboembolism. A major challenge is posed for the development of compounds possessing ER subtype specificity. Herein, we present a large-scale classification structure-activity relationship (CSAR) study of inhibitors from the ChEMBL database which consisted of an initial set of 11,618 compounds for ERα and 7,810 compounds for ERβ.</description>
+      <guid>https://www.prashantkatiyar.com/projects/prd-for-cometlabs-code-analysis-and-deployment-platform/</guid>
+      <description>1. Introduction Objective: Develop a comprehensive cloud-based platform for thorough code analysis that fetches, deploys, and critically analyzes code repositories. This platform aims to leverage both static code analysis tools and dynamic machine learning models to provide detailed insights into code quality and best practices.
+Background: In an era of growing software complexity, ensuring code quality becomes challenging. CometLabs seeks to simplify and amplify this process through automation and intelligence.</description>
     </item>
     
     <item>
-      <title>Probing the origins of human acetylcholinesterase inhibition via QSAR modeling and molecular docking</title>
-      <link>https://www.prashantkatiyar.com/projects/acetylcholinesterase/</link>
-      <pubDate>Mon, 04 Apr 2022 23:15:00 +0700</pubDate>
+      <title>Product Teardown: CodeSandBox</title>
+      <link>https://www.prashantkatiyar.com/projects/product-teardown-codesandbox/</link>
+      <pubDate>Thu, 18 May 2023 23:15:00 +0700</pubDate>
       
-      <guid>https://www.prashantkatiyar.com/projects/acetylcholinesterase/</guid>
-      <description>Abstract Alzheimer’s disease (AD) is a chronic neurodegenerative disease which leads to the gradual loss of neuronal cells. Several hypotheses for AD exists (e.g., cholinergic, amyloid, tau hypotheses, etc.). As per the cholinergic hypothesis, the deficiency of choline is responsible for AD; therefore, the inhibition of AChE is a lucrative therapeutic strategy for the treatment of AD. Acetylcholinesterase (AChE) is an enzyme that catalyzes the breakdown of the neurotransmitter acetylcholine that is essential for cognition and memory.</description>
+      <guid>https://www.prashantkatiyar.com/projects/product-teardown-codesandbox/</guid>
+      <description>Introduction: Kite is Zerodha&amp;rsquo;s flagship trading platform, available as both a web platform and a mobile app. It offers a clean and intuitive UI, designed for both investment and trading needs. The app is known for its ₹0 brokerage for investments and a flat ₹20 fee for F&amp;amp;O trading.
+Key Features:
+Speed and Design: Built from scratch using new technologies, Kite boasts significant speed improvements and a brand-new design, from login to order placement.</description>
+    </item>
+    
+    <item>
+      <title>Product Teardown: Kite App by Zerodha</title>
+      <link>https://www.prashantkatiyar.com/projects/product-teardown-kite-app/</link>
+      <pubDate>Thu, 18 May 2023 23:15:00 +0700</pubDate>
+      
+      <guid>https://www.prashantkatiyar.com/projects/product-teardown-kite-app/</guid>
+      <description>Introduction: Kite is Zerodha&amp;rsquo;s flagship trading platform, available as both a web platform and a mobile app. It offers a clean and intuitive UI, designed for both investment and trading needs. The app is known for its ₹0 brokerage for investments and a flat ₹20 fee for F&amp;amp;O trading.
+Key Features:
+Speed and Design: Built from scratch using new technologies, Kite boasts significant speed improvements and a brand-new design, from login to order placement.</description>
     </item>
     
     <item>
@@ -85,6 +102,24 @@ As a biologist, I have self-taught myself data science and coding (R and Python)
       
       <guid>https://www.prashantkatiyar.com/about/</guid>
       <description>About</description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://www.prashantkatiyar.com/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.prashantkatiyar.com/posts/</guid>
+      <description>Posts made by me at socials</description>
+    </item>
+    
+    <item>
+      <title>Talks and Events</title>
+      <link>https://www.prashantkatiyar.com/talks-and-events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.prashantkatiyar.com/talks-and-events/</guid>
+      <description>Talks given by me at various events</description>
     </item>
     
   </channel>
