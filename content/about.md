@@ -1,0 +1,39 @@
+---
+title: "About" # in any language you want
+layout: "about" # is necessary
+language: en
+url: "/about"
+summary: About
+
+comments: false
+---
+
+I'm a **Tech Founder** and **Product Manager** with 3+ years of experience building SaaS products in DevTools, Hiring, Web-3 and Retail Tech Startups, which generated over $ 3.5 Million in revenue. I run a community of 1.2 Lakhs+ Developers, providing tools to share proof of work. I raised INR 1.1 Cr in Venture Capital for my startup in 2nd year of college.
+
+## Expertise
+
+- Confluence, Jira, Trello, Notion, Miro, Amplitude, Mixpanel, Metabase, CleverTap, Google Analytics
+- Balsamiq, Lucid Charts, Figma, Canva, Retool
+- SQL, C, C++, Javascript, Typescript, Python, Bash
+- ReactJS, NextJS, Tailwind, NodeJS, ExpressJS, MongoDB, DynamoDB, AWS, Docker
+- Product Strategy, Business Analysis, User Research, Persona Creation, Wireframing, Mockups, PRD,
+Product Roadmap, Agile Methodology, Sprint Planning, TDD, Risk Management. UAT, A/B Testing, Product Analytics, Success Metrics, KPIs
+
+## Noteworthy Achievements
+
+- Top 30 Finalist in the **HYSEA 10X Product Awards**, Hyderabad (2023)
+- Top 5 Finalist at **EO GSEA Awards** in both Goa & New Delhi (2023)
+- Founded a dynamic community of **9500+ Developers** (IIITians Network) from IITs/IIITs (2021 — 2022)
+
+## Beyond the Desk
+
+### Travel and Exploration
+
+Away from tech, I recharge through travel—either alone or with loved ones. These journeys are more than escapes; they've been the catalyst for my startup. Each trip offers cultural insights and valuable learnings. In downtime, I delve into books and case studies focused on emerging business and finance trends.
+
+
+### Musical Escapes
+
+Music is my refuge. Especially, the pulsating rhythms of EDM resonate with me. It's a fervent wish of mine to be swept up in the magic of an Alan Walker EDM night.
+
+Open to connect to discuss tech, travel, or even the latest EDM tracks.

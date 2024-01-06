@@ -66,7 +66,7 @@ params:
     imageTitle: "Tech Founder - PM"
     buttons:
       - name: Resume
-        url: "Prashant_PM_Resume.pdf"
+        url: "Prashant Katiyar.pdf"
       - name: About
         url: about
       - name: Projects
@@ -74,7 +74,7 @@ params:
       - name: Blogs
         url: blogs
       - name: Talks & Events
-        url: talks-and-workshops
+        url: talks-and-events
 
 
   socialIcons:
@@ -138,7 +138,7 @@ menu:
       weight: 4
     - identifier: talks
       name: Talks & Events
-      url: /talks-and-workshops
+      url: /talks-and-events
       weight: 5
 
 markup:
