@@ -1,15 +1,15 @@
 ---
 title: "Product Case Study: Dunzo App"
-date: 2023-08-13T23:15:00+07:00
+date: "2023-08-13T"
 slug: Product Case Study Dunzo App
 category: projects
 summary:
 description:
 cover:
-  image:
-  alt:
-  caption:
-  relative: true
+  image: "DunzoApp.png"
+  alt: "Dunzo App Snapshots"
+  caption: "Dunzo App Snapshots"
+  relative: false
 showtoc: true
 draft: false
 ---

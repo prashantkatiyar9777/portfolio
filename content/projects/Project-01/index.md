@@ -6,7 +6,7 @@ category: projects
 summary:
 description:
 cover:
-  image: "cometlabs-playground.jpg"
+  image: "CodeArena Playground.png"
   alt: "cometlabs-playground"
   caption: "CometLabs Platform Playground IDEs"
   relative: false

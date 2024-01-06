@@ -10,11 +10,29 @@ comments: false
 
 Hello Everyone, these are few of the many talks I have given at various events.
 
-## API 101 - Postman Student Leader
-| ![Postman Talk 1](/img/postman-1.JPG) | ![Gsoc Talk 2](/img/postman-2.JPG) |
+## Session at IIIT Dharwad
+| ![Postman Talk 1](/img/dwd1.JPG) | ![Gsoc Talk 2](/img/dwd2.JPG) |
 |:---:|:---:|
 
-As a postman student leader, I had the privilege of conducting a two-day workshop on APIs for the students of IIT Dharwad. The workshop was organized by the Techniosys Club of IIIT Dharwad and witnessed an impressive attendance of over 100 students. On Day 1, Mr. Pratik Pakhale, the then Postman Student expert, and I delivered a comprehensive talk on API 101, providing valuable insights and knowledge. Day 2 featured an exciting Postman API certification competition, where students competed to complete the certification in the fastest time possible, with prizes awaiting the winners. The workshop was a tremendous success, fostering learning and engagement among the students.
+### Building Great Products by Connecting with Users
+
+"Great products are built by talking to their users and customers." 💡
+
+A big thanks to the Indian Institute of Information Technology Dharwad students for inviting CometLabs.
+
+Two years ago, we built the largest community of ~8000 techies, the IIITians Network, comprising students from IIITs, NITs, and IITs 🚀🔥.
+
+Our team is actively engaging with tech colleges, conducting sessions on #product building, #coding, #hiring in Tech #Startups, organizing #hackathons, #workshops, and demonstrating how #CometLabs fills these gaps.
+
+I'm grateful to E-Cell, IIIT Dharwad, for the warm welcome, providing an opportunity to address the #founders of the future, listening to their #startup ideas, and mentoring them too.
+
+📌 We'd love to meet you too, visit your campus, converse with developers, and connect them with tech startups. Let's connect.
+
+#community #students #network
+
+### Attendees:
+Shivam Soni, Rishika Kumari, Vineel Sai, Manish Kumar, Chaitanya Hegde, CIE IIIT Hyderabad, SucSEED Ventures, Ramesh Loganathan, Vikrant Varshney, Viiveck Verma - PCC (ICF), Pratyush Singh.
+
 
 ## Talk on Cracking the Google Summer of Code
 | ![Gsoc Talk 1](/img/gsoc-talk1.jpeg) | ![Gsoc Talk 2](/img/gsoc-talk2.jpeg) |

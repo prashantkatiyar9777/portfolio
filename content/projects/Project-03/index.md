@@ -1,14 +1,14 @@
 ---
 title: "Product Case Study: FamPay App"
-date: 2023-11-26T23:15:00+07:00
+date: "2023-11-26"
 slug: Product Case Study FamPay App
 category: projects
 summary:
 description:
 cover:
-  image: "fampay-cover.png"
-  alt: "fampay website cover"
-#   caption: "Fampay Website Cover"
+  image: "famapp.png"
+  alt: "Fampay App Cover"
+  caption: "Fampay App Cover"
   relative: false
 showtoc: true
 draft: false

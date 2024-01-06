@@ -1,6 +1,6 @@
 ---
 title: "Product Teardown: CodeSandBox"
-date: 2023-05-18T23:15:00+07:00
+date: "2023-05-18"
 slug: Product Teardown CodeSandBox
 category: projects
 summary:

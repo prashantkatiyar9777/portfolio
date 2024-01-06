@@ -1,15 +1,15 @@
 ---
 title: "Product Teardown: Kite App by Zerodha"
-date: 2023-05-18T23:15:00+07:00
+date: "2023-05-18"
 slug: Product Teardown Kite App
 category: projects
 summary:
 description:
 cover:
-  image:
-  alt:
-  caption:
-  relative: true
+  image: "Kite App.png"
+  alt: "Kite App Cover"
+  caption: "Kite App Cover"
+  relative: false
 showtoc: true
 draft: false
 ---
