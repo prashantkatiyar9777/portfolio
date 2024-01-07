@@ -301,6 +301,7 @@
     background: var(--code-bg);
     border-radius: var(--radius);
     padding: 0.4em;
+    font-weight: normal;
 }
 
 .dark .toc {

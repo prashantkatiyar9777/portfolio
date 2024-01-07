@@ -26,8 +26,7 @@ draft: false
 ## 2. Key Features and Use Cases
 
 <div class="notion-style-box">
-    <details>
-        <summary>Publish projects using CometLabs Playgrounds:</summary>
+Publish projects using CometLabs Playgrounds:
 
 - **Features**:
     - Readymade boilerplate templates to start building projects.
@@ -36,70 +35,71 @@ draft: false
     - Access tools like Console, Terminal, Build, Linter Tests, Dependency Picker, etc.
     - Customised playground templates like Solidity+Vite or Angular+Vite.
     - Contribute to projects from other Developers in the community
-- **Platform Snapshots:**
+
+    <details>
+        <summary>Platform Snapshots</summary>
     
     ![HomePage](HomePage.png)
-    Developers can start building coding projects on CometLabs directly from the Landing Page and add them to their portfolio.
+    <p style="text-align: left; margin-top: 5px; font-size:15px;">Developers can start building coding projects on CometLabs directly from the Landing Page and add them to their portfolio.</p>
     
     ![SelectPlayground ](SelectPlayground.png)
-    Start with a blank template and choose any framework to start with the boilerplate. 
+    <p style="text-align: left; margin-top: 5px; font-size:15px;">Start with a blank template and choose any framework to start with the boilerplate.</p>
     
     ![Playground](Playground.png)
-    CometLabs Playgrounds are powerful in-browser IDEs with a dedicated containerised environment spinning without configuration. Dockerised environments provide fast microVMs for each playground. 
-    It supports over 33+ frameworks and languages. Access Devtools like Lint, Preview, Build, Tests, Console, Terminal, Excalidraw, Dependency Picker, Autocomplete, Code Generation, and Refactoring.
+    <p style="text-align: left; margin-top: 5px; font-size:15px;">CometLabs Playgrounds are powerful in-browser IDEs with a dedicated containerised environment spinning without configuration. Dockerised environments provide fast microVMs for each playground. 
+    It supports over 33+ frameworks and languages. Access Devtools like Lint, Preview, Build, Tests, Console, Terminal, Excalidraw, Dependency Picker, Autocomplete, Code Generation, and Refactoring.</p>
     
     ![Integration](Integration.png)
-    Sync your GitHub/GitLab repositories with CometLabs and open any repository instantly in our pre-configured playground. Upgrade your git workflow with browser collaboration, immediate branch access, Commit Changes, Review, Tests and PRs.
+    <p style="text-align: left; margin-top: 5px; font-size:15px;">Sync your GitHub/GitLab repositories with CometLabs and open any repository instantly in our pre-configured playground. Upgrade your git workflow with browser collaboration, immediate branch access, Commit Changes, Review, Tests and PRs.</p>
     
     ![Boilerplates](Boilerplates.png)
-    Pre-Setup Templates and Code Snippets like Solidity+Vite or Angular+Vite.
+    <p style="text-align: left; margin-top: 5px; font-size:15px;">Pre-Setup Templates and Code Snippets like Solidity+Vite or Angular+Vite.</p>
     
     ![Community](Community.png)
-    Start contributing to projects from other Developers in the community.
-    
+    <p style="text-align: left; margin-top: 5px; font-size:15px;">Start contributing to projects from other Developers in the community.</p>
 </details>
 </div>
 
 <div class="notion-divider"></div>
 
 <div class="notion-style-box">
-    <details>
-        <summary>Create a complete portfolio required as a software developer.</summary>
+Create a complete portfolio required as a software developer.
 
 - **Features**:
     - Rating Developers’ Experience in Languages/Frameworks/Topics by MCQs and Code Analysis.
     - Complete Portfolio - Role, Years of Experience, Contact Info, Social Links, Work Preference, Hours of Work, Pay Range.
     - Introductory Video creation for better visibility.
     - Work Experience survey based on communication, people management, soft skills, etc.
-- **Platform Snapshots:**
+
+    <details>
+        <summary>Platform Snapshots</summary>
     
     ![DevDash1](DevDash1.png)
-    Developers get a Dashboard to make their Public Profiles in the community and get hired.
+    <p style="text-align: left; margin-top: 5px; font-size:15px;">Developers get a Dashboard to make their Public Profiles in the community and get hired.</p>
     
     ![DevDash2](DevDash2.png)
-    Work Preference, Salary, and Availability details could be added.
+    <p style="text-align: left; margin-top: 5px; font-size:15px;">Work Preference, Salary, and Availability details could be added.</p>
     
     ![DevDash3.](DevDash3.png)
-    Detailed analysis of a developer’s expertise over skills generated using the questions/quizzes they solve and analysing their code in Github/GitLab repositories.
+    <p style="text-align: left; margin-top: 5px; font-size:15px;">Detailed analysis of a developer’s expertise over skills generated using the questions/quizzes they solve and analysing their code in Github/GitLab repositories.</p>
     
     ![RecordVideo.](RecordVideo.png)
-    Developers can record an introductory video about their experience and share it with their CometLabs profile to recruiters.
+    <p style="text-align: left; margin-top: 5px; font-size:15px;">Developers can record an introductory video about their experience and share it with their CometLabs profile to recruiters.</p>
     
     ![Radar.](Radar.png)
-    Developers can answer the Work Experience Survey to generate results.
+    <p style="text-align: left; margin-top: 5px; font-size:15px;">Developers can answer the Work Experience Survey to generate results.</p>
     
     ![Quiz.](Quiz.png)
-    Quizzes for Developers on Psychometric and Work Experience Questions.
+    <p style="text-align: left; margin-top: 5px; font-size:15px;">Quizzes for Developers on Psychometric and Work Experience Questions.</p>
     
     ![WorkExp.](WorkExp.png)
-    OCR and Resume Parsing feature and Mapping to Database Fields to autofill the Resume.
+    <p style="text-align: left; margin-top: 5px; font-size:15px;">OCR and Resume Parsing feature and Mapping to Database Fields to autofill the Resume.</p>
     
     ![Projects.](Projects.png)
-    Developers can also add other Projects to the Portfolio and explain them with links.
+    <p style="text-align: left; margin-top: 5px; font-size:15px;">Developers can also add other Projects to the Portfolio and explain them with links..</p>
     
     ![ProjectsShow.](ProjectsShow.png)
-    Developers can also add other Projects to the Portfolio and explain them with links.
-    
+    <p style="text-align: left; margin-top: 5px; font-size:15px;">Developers can also add other Projects to the Portfolio and explain them with links.</p>
 </details>
 </div>
 
@@ -107,36 +107,36 @@ draft: false
 
 
 <div class="notion-style-box">
-    <details>
-        <summary>Hire pre-screened developers and assess them:</summary>
-
+Hire pre-screened developers and assess them:
+    
 - **Features**:
     - Make your company’s profile visible to developer communities.
     - Share JDs and get matched with pre-screened Developers.
     - Give Assignment Projects to Developers to Build onto CometLabs Playgrounds.
     - Tailored Question Bank in 33+ Languages and Frameworks.
-- **Platform Snapshots:**
+    <details>
+        <summary>Platform Snapshots</summary>
     
     ![CompanyDashboard.](CompanyDashboard.png)
+    <p style="text-align: left; margin-top: 5px; font-size:15px;">
     Dashboard for Customer to:  
     1) Outsource Developers from CometLabs pre-vetted Developer Pool.
-    2) Invite Applicants to CometLabs via ATS Integration and Send them Assignments.
+    2) Invite Applicants to CometLabs via ATS Integration and Send them Assignments.</p>
     
     ![SegritechDashboard.](SegritechDashboard.png)
-    Company’s profile visible to developer communities.
+    <p style="text-align: left; margin-top: 5px; font-size:15px;">Company’s profile visible to developer communities.</p>
     
     ![EditCompany.](EditCompany.png)
-    Edit Company Profile
+    <p style="text-align: left; margin-top: 5px; font-size:15px;">Edit Company Profile</p>
     
     ![ActiveDevs.](ActiveDevs.png)
-    CometLabs pre-vetted Developer Pool.
+    <p style="text-align: left; margin-top: 5px; font-size:15px;">CometLabs pre-vetted Developer Pool.</p>
     
     ![Interviews](Interviews.png)
-    Schedule Developer’s Interview using CometLabs Playground IDEs. Custom Take-Home Assignments & Evaluation Tools
+    <p style="text-align: left; margin-top: 5px; font-size:15px;">Schedule Developer’s Interview using CometLabs Playground IDEs. Custom Take-Home Assignments & Evaluation Tools</p>
     
     ![QuesBank.](QuesBank.png)
-    Tailored Question Bank & Resources
-    
+    <p style="text-align: left; margin-top: 5px; font-size:15px;">Tailored Question Bank & Resources</p>
 </details>
 </div>
 
@@ -144,6 +144,35 @@ draft: false
 
 
 <div class="notion-style-box">
+Host Hackathons and Take Submissions on CometLabs Playground:
+    
+- **Features**:
+    - Hackathons Listing for companies and colleges on CometLabs.
+    - Easy Participation and Project Submission along with Codebase.
+    - Community Leaderboard featuring projects at every Hackathon.
+    <details>
+        <summary>Platform Snapshots</summary>
+    
+    ![CodeArenas](CodeArenas.png)
+    <p style="text-align: left; margin-top: 5px; font-size:15px;">Live and Past Hackathons listed on CometLabs to participate organised by companies and colleges.</p>
+    
+    ![C2D](C2D.png)
+    <p style="text-align: left; margin-top: 5px; font-size:15px;">Dedicated page for every Hackathon mentioning - organiser details, tracks and prizes.</p>
+    
+    ![SubmitHack.](SubmitHack.png)
+    <p style="text-align: left; margin-top: 5px; font-size:15px;">Smooth Project submission along with Codebase using Cometlabs playgrounds.</p>
+    
+    ![DeployHack.](DeployHack.png)
+    <p style="text-align: left; margin-top: 5px; font-size:15px;">Smooth Project submission along with Codebase using Cometlabs playgrounds.</p>
+    
+    ![Leaderboard.](Leaderboard.png)
+    <p style="text-align: left; margin-top: 5px; font-size:15px;">Community Leaderboard featuring projects at every Hackathon.</p>
+
+</details>
+</div>
+
+
+<!-- <div class="notion-style-box">
     <details>
         <summary>Host Hackathons and Take Submissions on CometLabs Playground:</summary>
 
@@ -167,9 +196,9 @@ draft: false
     
     ![Leaderboard.](Leaderboard.png)
     Community Leaderboard featuring projects at every Hackathon.
-    
 </details>
-</div>
+</div> -->
+
 
 <div class="notion-divider"></div>
 
@@ -180,13 +209,16 @@ draft: false
 - **Platform Snapshots:**
     
     ![Careers at CometLabs](Careers.png)
-    Careers at CometLabs
+    <!-- Careers at CometLabs -->
+    <p style="text-align: left; margin-top: 5px; font-size:15px;">Careers at CometLabs</p>
     
     ![Blogs from CometLabs on the Latest Development Stacks and News](BlogPreview.png)
-    Blogs from CometLabs on the Latest Development Stacks and News
+    <!-- Blogs from CometLabs on the Latest Development Stacks and News -->
+    <p style="text-align: left; margin-top: 5px; font-size:15px;">Blogs from CometLabs on the Latest Development Stacks and News</p>
     
     ![Blogs from CometLabs on the Latest Development Stacks and News](Blogs.png)
-    Blogs from CometLabs on the Latest Development Stacks and News
+    <!-- Blogs from CometLabs on the Latest Development Stacks and News -->
+    <p style="text-align: left; margin-top: 5px; font-size:15px;">Blogs from CometLabs on the Latest Development Stacks and News</p>
 </details>
 </div>
 
@@ -217,6 +249,8 @@ draft: false
     </aside>
 </div>
 
+
+<div class="notion-divider"></div>
 
 <!-- <div class="notion-style-box">
     <details>
@@ -262,10 +296,6 @@ draft: false
 </div> -->
 
 
-
-
-
-<div class="notion-divider"></div>
 
 ## 4. User Experience Stories:
 
@@ -317,10 +347,11 @@ As our product is currently not live due to pending cloud bills, Here’s an old
 </div>
 <div>
   <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin-bottom: 10px; border-radius: 10px; overflow: hidden;">
-    <iframe src="https://youtu.be/RHRI2KxoTvQ?si=LasGAez_bWmJ9ycX&t=101" frameborder="0" allowfullscreen style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border-radius: 10px;"></iframe>
+    <iframe src="https://www.youtube.com/embed/RHRI2KxoTvQ?si=LasGAez_bWmJ9ycX&t=101" frameborder="0" allowfullscreen style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border-radius: 10px;"></iframe>
   </div>
   <p style="text-align: left; margin-top: 5px; font-style: italic; font-size:15px;">CometLabs Playgrounds (April 2022)</p>
 </div>
+
 
 <div class="notion-divider"></div>
 
