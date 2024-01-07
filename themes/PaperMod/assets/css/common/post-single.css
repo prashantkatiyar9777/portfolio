@@ -488,3 +488,64 @@ h6:hover .anchor {
 
 
 
+
+.notion-style-box {
+    background-color: rgb(241, 241, 239);
+    border-radius: 4px;
+    padding: 15px 15px 15px 18px;
+    margin-bottom: 10px;
+}
+
+/* Additional styles for the content within the box */
+.notion-style-box aside {
+    /* Add specific styles if needed */
+}
+
+/* Style for the toggle summary */
+.notion-style-box summary {
+    cursor: pointer;
+    outline: none;
+}
+
+/* Style for the toggle details */
+.notion-style-box details {
+    margin: 0;
+}
+
+/* Style for the inner content when details are open */
+.notion-style-box .inner {
+    padding: 10px 20px;
+    border-top: 1px solid #ccc; /* Optional: Add a border between summary and content */
+}
+
+/* Style for the inner content when details are open */
+.notion-style-box details[open] .inner {
+    padding: 10px 20px;
+    border-top: none; /* Remove the border-top when details are open */
+}
+
+
+
+
+
+
+
+
+/* Initially hide the inner content */
+.markdown details div.hide {
+    display: none;
+} 
+
+
+
+
+
+
+
+.notion-divider {
+    height: 1px;
+    background-color: rgba(55, 53, 47, 0.16);
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
