@@ -212,11 +212,50 @@
     word-break: break-all;
 }
 
-.post-content blockquote {
+
+
+
+/* .post-content blockquote {
     margin: 20px 0;
     padding: 0 14px;
     border-inline-start: 3px solid var(--primary);
+} */
+
+.post-content blockquote {
+    margin: 20px 0;
+    padding: 0 14px;
+    border-radius: 0px;
+    border-inline-start: 3px solid var(--primary); /* Default color */
+     /* Default background */
 }
+
+/* Additional styling for specific blockquotes */
+.post-content blockquote.pink {
+    background: rgba(249, 238, 243, 0.8);
+}
+
+.post-content blockquote.green {
+    background: rgb(237, 243, 236); /* Change this to any color you desire */
+}
+
+.post-content blockquote.yellow {
+    background: rgb(251, 243, 219)    ; /* Change this to any color you desire */
+}
+
+.post-content blockquote.red {
+    background: rgb(253, 235, 236)    ; /* Change this to any color you desire */
+}
+
+.post-content blockquote.darkgreen {
+    background: rgb(231, 243, 248)    ; /* Change this to any color you desire */
+}
+
+.post-content blockquote.purple {
+    background: rgba(244, 240, 247, 0.8)   ; /* Change this to any color you desire */
+}
+
+
+
 
 .post-content hr {
     margin: 30px 0;
@@ -427,3 +466,25 @@ h6:hover .anchor {
 [dir="rtl"] .paginav .next {
     text-align: left;
 }
+
+
+
+
+
+
+.notion-style-box {
+    background-color: #f3f4f6; /* Adjust the color to match the grey background */
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px; /* Adjust as needed */
+    /* Add any other styles to match Notion's styling */
+}
+
+/* Additional styles for the content within the box */
+.notion-style-box aside {
+    /* Add specific styles if needed */
+}
+
+
+
+

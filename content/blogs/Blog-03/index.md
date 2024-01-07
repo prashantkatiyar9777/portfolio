@@ -25,8 +25,10 @@ draft: false
 
 ## 2. Key Features and Use Cases
 
-<aside>
-<img src="/icons/checkmark-square_gray.svg" alt="/icons/checkmark-square_gray.svg" width="40px" /> Publish projects using CometLabs Playgrounds:
+<div class="notion-style-box">
+    Publish projects using CometLabs Playgrounds:
+    <aside>
+<aside> 
 
 - **Features**:
     - Readymade boilerplate templates to start building projects.
@@ -37,38 +39,41 @@ draft: false
     - Contribute to projects from other Developers in the community
 - **Platform Snapshots:**
     
-    ![Developers can start building coding projects on CometLabs directly from the Landing Page and add them to their portfolio.](https://prod-files-secure.s3.us-west-2.amazonaws.com/a7852605-6d96-4c3d-ad0c-b06f9dc59da7/7126511b-3ac0-48d7-a412-c44e2fd95c9e/Untitled.png)
+    ![Developers can start building coding projects on CometLabs directly from the Landing Page and add them to their portfolio.](HomePage.png)
     
     Developers can start building coding projects on CometLabs directly from the Landing Page and add them to their portfolio.
     
-    ![Start with a blank template and choose any framework to start with the boilerplate. ](https://prod-files-secure.s3.us-west-2.amazonaws.com/a7852605-6d96-4c3d-ad0c-b06f9dc59da7/ec3a5191-cf01-4602-acaf-981fc7f07e54/Untitled.png)
+    ![Start with a blank template and choose any framework to start with the boilerplate. ](SelectPlayground.png)
     
     Start with a blank template and choose any framework to start with the boilerplate. 
     
     ![CometLabs Playgrounds are powerful in-browser IDEs with a dedicated containerised environment spinning without configuration. Dockerised environments provide fast microVMs for each playground. 
-    It supports over 33+ frameworks and languages. Access Devtools like Lint, Preview, Build, Tests, Console, Terminal, Excalidraw, Dependency Picker, Autocomplete, Code Generation, and Refactoring.](https://prod-files-secure.s3.us-west-2.amazonaws.com/a7852605-6d96-4c3d-ad0c-b06f9dc59da7/9e575a14-73f2-401b-8554-713ed063419d/Untitled.png)
+    It supports over 33+ frameworks and languages. Access Devtools like Lint, Preview, Build, Tests, Console, Terminal, Excalidraw, Dependency Picker, Autocomplete, Code Generation, and Refactoring.](Playground.png)
     
     CometLabs Playgrounds are powerful in-browser IDEs with a dedicated containerised environment spinning without configuration. Dockerised environments provide fast microVMs for each playground. 
     It supports over 33+ frameworks and languages. Access Devtools like Lint, Preview, Build, Tests, Console, Terminal, Excalidraw, Dependency Picker, Autocomplete, Code Generation, and Refactoring.
     
-    ![Sync your GitHub/GitLab repositories with CometLabs and open any repository instantly in our pre-configured playground. Upgrade your git workflow with browser collaboration, immediate branch access, Commit Changes, Review, Tests and PRs.](https://prod-files-secure.s3.us-west-2.amazonaws.com/a7852605-6d96-4c3d-ad0c-b06f9dc59da7/cce24d8e-a0f6-4bf6-b3be-8ca7b3a912d4/Untitled.png)
+    ![Sync your GitHub/GitLab repositories with CometLabs and open any repository instantly in our pre-configured playground. Upgrade your git workflow with browser collaboration, immediate branch access, Commit Changes, Review, Tests and PRs.](Integration.png)
     
     Sync your GitHub/GitLab repositories with CometLabs and open any repository instantly in our pre-configured playground. Upgrade your git workflow with browser collaboration, immediate branch access, Commit Changes, Review, Tests and PRs.
     
-    ![Pre-Setup Templates and Code Snippets like Solidity+Vite or Angular+Vite.](https://prod-files-secure.s3.us-west-2.amazonaws.com/a7852605-6d96-4c3d-ad0c-b06f9dc59da7/bec28ace-1443-4f3c-a2f3-520670d80a8d/Untitled.png)
+    ![Pre-Setup Templates and Code Snippets like Solidity+Vite or Angular+Vite.](Boilerplates.png)
     
     Pre-Setup Templates and Code Snippets like Solidity+Vite or Angular+Vite.
     
-    ![Start contributing to projects from other Developers in the community.](https://prod-files-secure.s3.us-west-2.amazonaws.com/a7852605-6d96-4c3d-ad0c-b06f9dc59da7/ac45d91d-5325-4bc2-bd21-05600b6595b1/Untitled.png)
+    ![Start contributing to projects from other Developers in the community.](Community.png)
     
     Start contributing to projects from other Developers in the community.
     
 </aside>
+</div>
 
 ---
 
+<div class="notion-style-box">
+    Create a complete portfolio required as a software developer.
+    <aside>
 <aside>
-<img src="/icons/checkmark-square_gray.svg" alt="/icons/checkmark-square_gray.svg" width="40px" /> Create a complete portfolio required as a software developer.
 
 - **Features**:
     - Rating Developers’ Experience in Languages/Frameworks/Topics by MCQs and Code Analysis.
@@ -114,11 +119,14 @@ draft: false
     Developers can also add other Projects to the Portfolio and explain them with links.
     
 </aside>
+</div>
 
 ---
 
+<div class="notion-style-box">
+    Hire pre-screened developers and assess them.
+    <aside>
 <aside>
-<img src="/icons/checkmark-square_gray.svg" alt="/icons/checkmark-square_gray.svg" width="40px" /> Hire pre-screened developers and assess them.
 
 - **Features**:
     - Make your company’s profile visible to developer communities.
@@ -156,11 +164,14 @@ draft: false
     Tailored Question Bank & Resources
     
 </aside>
+</div>
 
 ---
 
+<div class="notion-style-box">
+    Host Hackathons and Take Submissions on CometLabs Playground:
+    <aside>
 <aside>
-<img src="/icons/checkmark-square_gray.svg" alt="/icons/checkmark-square_gray.svg" width="40px" /> Host Hackathons and Take Submissions on CometLabs Playground:
 
 - **Features**:
     - Hackathons Listing for companies and colleges on CometLabs.
@@ -189,34 +200,35 @@ draft: false
     Community Leaderboard featuring projects at every Hackathon.
     
 </aside>
+</div>
 
 ---
 
-<aside>
-<img src="/icons/checkmark-square_gray.svg" alt="/icons/checkmark-square_gray.svg" width="40px" /> Other Pages:
+<div class="notion-style-box">
+    Other Pages:
+    <aside>
 
 - **Platform Snapshots:**
     
-    ![Careers at CometLabs](https://prod-files-secure.s3.us-west-2.amazonaws.com/a7852605-6d96-4c3d-ad0c-b06f9dc59da7/c81540b9-e5c3-4f53-8f32-4105142c24f2/Untitled.png)
-    
+    ![Careers at CometLabs](Careers.png)
     Careers at CometLabs
     
-    ![Blogs from CometLabs on the Latest Development Stacks and News](https://prod-files-secure.s3.us-west-2.amazonaws.com/a7852605-6d96-4c3d-ad0c-b06f9dc59da7/7da4d2ce-2fa5-4f49-8136-4b8c07177473/Untitled.png)
-    
+    ![Blogs from CometLabs on the Latest Development Stacks and News](BlogPreview.png)
     Blogs from CometLabs on the Latest Development Stacks and News
     
-    ![Blogs from CometLabs on the Latest Development Stacks and News](https://prod-files-secure.s3.us-west-2.amazonaws.com/a7852605-6d96-4c3d-ad0c-b06f9dc59da7/aa5af342-ff90-499c-8ccb-85f9e8ee0629/Untitled.png)
-    
+    ![Blogs from CometLabs on the Latest Development Stacks and News](Blogs.png)
     Blogs from CometLabs on the Latest Development Stacks and News
     
 </aside>
+</div>
 
 ---
 
 ## 3. Technology Stack Overview
 
-<aside>
-<img src="/icons/code_gray.svg" alt="/icons/code_gray.svg" width="40px" /> A breakdown of the technical stack of CometLabs’ product is as follows:
+<div class="notion-style-box">
+    A breakdown of the technical stack of CometLabs’ product is as follows:
+    <aside>
 
 - **Frontend**:
     - **Tech Stack:** ReactJs, NextJs, HTML, Tailwind CSS, Javascript, ES6+, GraphQL, CDN, SEO.
@@ -235,40 +247,38 @@ draft: false
     - **Cloud Services**: AWS EC2, AWS SNS, AWS SQS, AWS Lambda, Google Cloud
     - **Deployment Tools**: CI/CD, Kubernetes, and Docker Containerisation for seamless deployment and infrastructure management like cloud services, serverless computing, and containerisation.
 </aside>
+</div>
 
 ---
 
 ## 4. User Experience Stories:
 
-> “As a Fresher Student Developer, I can now showcase my projects, including code, previews, and analysis of my Codebase, to strengthen my portfolio and stand out in job applications.”
-> 
+<blockquote class="pink">
+“As a Fresher Student Developer, I can now showcase my projects, including code, previews, and analysis of my Codebase, to strengthen my portfolio and stand out in job applications.”
+</blockquote>
+
+<blockquote class="yellow">
+“As a Developer, I get a familiar coding environment with syntax highlighting and code analysis to quickly identify and rectify errors. I can connect my GitHub account, import repositories, and deploy them in sandboxed environments.”
+</blockquote>
+
+<blockquote class="green">
+“As a Non-Tech Founder, I can now get easy access to pre-screened developers from CometLabs and outsource my work to them.”
+</blockquote>
+
+<blockquote class="red">
+“As an early startup CTO, I can now streamline the hiring process by avoiding manual review of every resumes before interview. I don’t have to look in past projects of developers, install their Codebase locally to analyse their coding practises.”
+</blockquote>
+
+<blockquote class="darkgreen">
+“As a Technical HR, I can quickly shortlist the developers based on their profile scores. I can assess their technical skills, give them assignments using CometLabs' playground and Question Sets without relying on my company's engineers.”
+</blockquote>
+
+<blockquote class="purple">
+“As a Senior Developer, I get advanced insights beyond static analysis to improve our code's quality, adherence to coding standards, and overall maintainability.”
+</blockquote>
 
 ---
 
-> “As a Developer, I get a familiar coding environment with syntax highlighting and code analysis to quickly identify and rectify errors. I can connect my GitHub account, import repositories, and deploy them in sandboxed environments.”
-> 
-
----
-
-> “As a Non-Tech Founder, I can now get easy access to pre-screened developers from CometLabs and outsource my work to them.”
-> 
-
----
-
-> “As an early startup CTO, I can now streamline the hiring process by avoiding manual review of every resumes before interview. I don’t have to look in past projects of developers, install their Codebase locally to analyse their coding practises.”
-> 
-
----
-
-> “As a Technical HR, I can quickly shortlist the developers based on their profile scores. I can assess their technical skills, give them assignments using CometLabs' playground and Question Sets without relying on my company's engineers.”
-> 
-
----
-
-> “As a Senior Developer, I get advanced insights beyond static analysis to improve our code's quality, adherence to coding standards, and overall maintainability.”
-> 
-
----
 
 ## 5. Market Position & Competitive Advantage:
 
@@ -314,4 +324,4 @@ As our product is currently not live due to pending cloud bills, Here’s an old
 </div> -->
 
 
-[Read blog](https://www.cometlabs.in/Blogs/The%20Unique%20Features%20of%20CometLabs%20Playgrounds)
+[Read blog](https://kprashant.notion.site/CometLabs-Platform-03ccba9079c44d498732adef78e5c8f0)
