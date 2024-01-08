@@ -9,7 +9,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: G-76R6T7WKG3
 
 minify:
   disableXML: true
@@ -18,8 +18,10 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Prashant Katiyar
-  description: "I am **Prashant Katiyar**"
-  keywords: [Blog, Portfolio, Product Manager, Startup Founder, CTO, Developer]
+  description: "Welcome to the digital space of Prashant Katiyar, a passionate tech entrepreneur, product manager, and developer relations expert based in Hyderabad, India. With a track record of catalyzing successful SaaS products within Developer Tools, Hiring, Web-3, and Retail Tech Startups, I've driven ventures that accumulated over $3.5 million in revenue. As the Co-Founder & Chief Product Officer of CometLabs since May 2021, I've spearheaded the development of a cutting-edge cloud-based IDE, leveraging GenAI for comprehensive code analysis and project evaluations. Our innovative approach secured INR 1.1 Cr preseed funding and fostered a vibrant community of 120K developers and 18,000 active users. Under my leadership, a dedicated team of 11 engineers brought this vision to life, setting benchmarks in performance and efficiency. Prior to CometLabs, my tenure as an Associate Product Manager at Hapramp Studios and a Product Manager Intern & FullStack Developer at Moptra Infotech honed my skills in enhancing product experiences, conducting A/B testing, and driving revenue growth by exploring new models like NFT Minting within the Web3 market. Equipped with a B.Tech in ECE from Indian Institute of Information Technology (IIIT), Guwahati, and enriched by entrepreneurial studies at Stanford University Graduate School of Business, I bring a robust foundation to product strategy, business analysis, user research, and community building. I've been recognized as a Top 30 Finalist at HYSEA 10X Product Awards & Expo in 2023 and a Top 5 Finalist at EO Global Student Entrepreneur Awards (GSEA) in 2023, underscoring my commitment to innovation and excellence. Explore my portfolio at prashantkatiyar.com and connect with me on LinkedIn or GitHub (@prashantkatiyar9777) to delve deeper into my journey, projects, and insights into the tech realm."
+  
+  keywords: [Blog, Portfolio, Product Manager, Startup Founder, CTO, Developer, Cloud-based IDE, GenAI, Agile Workflows, UI/UX Design, GitHub, Vercel, Jira, Trello, JavaScript, Python, ReactJS, AWS, Product Strategy, User Research, Community Building, PRD, A/B Testing, KPIs, IIIT, Stanford University, HYSEA 10X Product Awards, EO Global Student Entrepreneur Awards, CometLabs, Hapramp Studios, Moptra Infotech, Dunzo App, FamPay App, NFT Minting, Web3 Market]
+
   author: Prashant Katiyar
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
