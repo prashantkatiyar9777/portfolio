@@ -102,3 +102,44 @@
     color: var(--secondary);
     box-shadow: 0 1px 0 var(--primary);
 }
+
+
+
+
+
+/* .entry-cover img:not(.about-image) {
+    border-radius: var(--radius);
+    pointer-events: none;
+    width: 100%;
+    height: auto;
+}
+
+.about-image {
+    max-width: 400px;
+    height: auto;
+} */
+
+
+
+
+
+
+
+
+
+
+/* Ensure the images take up equal space in the row */
+.image-row {
+    display: flex; /* Use flexbox to create a row */
+    justify-content: space-between; /* Add space between items */
+    margin-right: -10px; /* Counteract margin added to the last item */
+}
+
+/* Set width and height for images */
+.about-image {
+    width: calc(50% - 5px); /* Each image takes 50% width of the container minus 5px for margin */
+    height: auto; /* Let the height adjust to maintain aspect ratio */
+    border-radius: var(--radius);
+    pointer-events: none;
+    margin-right: 10px; /* Adjust the margin to create space between images */
+}

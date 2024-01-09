@@ -2,35 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.prashantkatiyar.com/blogs/</loc>
+    <lastmod>2023-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.prashantkatiyar.com/blogs/cometlabs-platform-summary/</loc>
+    <lastmod>2023-12-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.prashantkatiyar.com/</loc>
-    <lastmod>2023-11-26T23:15:00+07:00</lastmod>
+    <lastmod>2023-12-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.prashantkatiyar.com/projects/product-case-study-fampay-app/</loc>
-    <lastmod>2023-11-26T23:15:00+07:00</lastmod>
+    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.prashantkatiyar.com/projects/</loc>
-    <lastmod>2023-11-26T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>https://www.prashantkatiyar.com/blogs/</loc>
-    <lastmod>2023-10-09T23:15:00+07:00</lastmod>
+    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.prashantkatiyar.com/blogs/the-unique-features-of-cometlabs-playgrounds/</loc>
-    <lastmod>2023-10-09T23:15:00+07:00</lastmod>
+    <lastmod>2023-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.prashantkatiyar.com/projects/product-case-study-dunzo-app/</loc>
-    <lastmod>2023-08-13T23:15:00+07:00</lastmod>
+    <loc>https://www.prashantkatiyar.com/tags/data-science/</loc>
+    <lastmod>2023-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.prashantkatiyar.com/tags/data-visualisation/</loc>
+    <lastmod>2023-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.prashantkatiyar.com/blogs/gsoc-final-report/</loc>
+    <lastmod>2023-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.prashantkatiyar.com/tags/r/</loc>
+    <lastmod>2023-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.prashantkatiyar.com/tags/r-shiny/</loc>
+    <lastmod>2023-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.prashantkatiyar.com/tags/</loc>
+    <lastmod>2023-08-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.prashantkatiyar.com/projects/prd-for-cometlabs-code-analysis-and-deployment-platform/</loc>
     <lastmod>2023-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.prashantkatiyar.com/projects/product-teardown-codesandbox/</loc>
-    <lastmod>2023-05-18T23:15:00+07:00</lastmod>
+    <lastmod>2023-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.prashantkatiyar.com/projects/product-teardown-kite-app/</loc>
-    <lastmod>2023-05-18T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>https://www.prashantkatiyar.com/blogs/what-is-bioinformatics/</loc>
-    <lastmod>2022-04-03T23:15:00+07:00</lastmod>
+    <lastmod>2023-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.prashantkatiyar.com/tags/first/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
@@ -38,14 +53,13 @@
     <loc>https://www.prashantkatiyar.com/page/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://www.prashantkatiyar.com/tags/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
     <loc>https://www.prashantkatiyar.com/about/</loc>
   </url><url>
     <loc>https://www.prashantkatiyar.com/categories/</loc>
   </url><url>
     <loc>https://www.prashantkatiyar.com/posts/</loc>
+  </url><url>
+    <loc>https://www.prashantkatiyar.com/projects/product-case-study-dunzo-app/</loc>
   </url><url>
     <loc>https://www.prashantkatiyar.com/talks-and-events/</loc>
   </url>

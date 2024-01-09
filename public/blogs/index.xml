@@ -10,11 +10,21 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Oct 2023 23:15:00 +0700</lastBuildDate><atom:link href="https://www.prashantkatiyar.com/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.prashantkatiyar.com/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CometLabs Platform Summary</title>
+      <link>https://www.prashantkatiyar.com/blogs/cometlabs-platform-summary/</link>
+      <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.prashantkatiyar.com/blogs/cometlabs-platform-summary/</guid>
+      <description>1. Introduction Product Summary: CometLabs is a platform for developers to showcase their projects’ proof of work and build a more analytical resume. Recruiters can also leverage the platform to find pre-screened developers. It gives in-browser coding environments that fetch and deploy repositories to show previews and code and provide detailed insights into code quality and best practices.
+Target Audience 1: Software Developers, College Students to 4 YoE Employees, Freelancers</description>
+    </item>
+    
     <item>
       <title>The Unique Features of CometLabs Playgrounds</title>
       <link>https://www.prashantkatiyar.com/blogs/the-unique-features-of-cometlabs-playgrounds/</link>
-      <pubDate>Mon, 09 Oct 2023 23:15:00 +0700</pubDate>
+      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.prashantkatiyar.com/blogs/the-unique-features-of-cometlabs-playgrounds/</guid>
       <description>CometLabs: Simplifying Developer Hiring CometLabs is not just an online editor but a comprehensive platform that simplifies the hiring process for developers and recruiters. The cloud-based development platform, CometLabs Playgrounds, offers unique features that set it apart from other online editors. Here are some of the innovative features:
@@ -22,14 +32,12 @@
     </item>
     
     <item>
-      <title>What Is Bioinformatics</title>
-      <link>https://www.prashantkatiyar.com/blogs/what-is-bioinformatics/</link>
-      <pubDate>Sun, 03 Apr 2022 23:15:00 +0700</pubDate>
+      <title>GSoC 2023: Final Report | PEcAn Project</title>
+      <link>https://www.prashantkatiyar.com/blogs/gsoc-final-report/</link>
+      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.prashantkatiyar.com/blogs/what-is-bioinformatics/</guid>
-      <description>Introduction So you probably have heard of the term Bioinformatics before, but did not get the chance to learn more about what it is and what it can do.
-In this article, I will be giving you a brief high-level overview of this exciting field of Bioinformatics. Thus, the article will be comprehensible to those coming from biology or computer backgrounds alike.
-As a biologist, I have self-taught myself data science and coding (R and Python) after several years of persistence (initially quitting a couple of times the coding concept just kind of clicked at some point in time).</description>
+      <guid>https://www.prashantkatiyar.com/blogs/gsoc-final-report/</guid>
+      <description>Documenting my complete GSoC journey with PEcAn Project for Google Summer of Code 2023.</description>
     </item>
     
   </channel>
