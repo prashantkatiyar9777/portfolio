@@ -58,3 +58,8 @@ I had the privilege of organizing a workshop at Deshpande Startups in collaborat
 
 I had the opportunity to participate in a program organized at a local school near IIIT Dharwad, in collaboration with the IEEE Student Branch, IIIT Dharwad. During this program, I had the privilege of introducing the world of computers to students who had never encountered them before. It was a rewarding experience, and I felt a great sense of satisfaction in being able to contribute to my community in this way. I am truly proud of the work we accomplished together. I am eager to meet those students again in the future, as I would love to continue teaching them about various subjects and concepts that they may not have easy access to otherwise.
 
+## Headlines and Media
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; margin-bottom: 10px; border-radius: 10px; overflow: hidden;">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/f-xNxJ9u9Ok" frameborder="0" allowfullscreen style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border-radius: 0px;"></iframe>
+</div>

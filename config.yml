@@ -130,18 +130,18 @@ menu:
       name: Projects
       url: /projects/
       weight: 2
-    - identifier: posts
-      name: Posts
-      url: /posts
-      weight: 3
     - identifier: blog
       name: Blogs
       url: /blogs/
-      weight: 4
+      weight: 3
     - identifier: talks
       name: Talks & Events
       url: /talks-and-events
-      weight: 5
+      weight: 4
+    # - identifier: posts
+    #   name: Posts
+    #   url: /posts
+    #   weight: 5
 
 markup:
   goldmark:

@@ -39,11 +39,7 @@ Product Roadmap, Agile Methodology, Sprint Planning, TDD, Risk Management. UAT, 
 - Founded a community of **[1.2 Lakhs+ Developers](https://www.instagram.com/iiitiansnetwork/)** from IITs/IIITs and top tier colleges.
 - Top 3 Finalist at **[T-Hub's](https://t-hub.co/)** SIG-10x Cohort.
 
-## Headlines and Media
 
-<div style="position: relative; width: 100%; padding-bottom: 56.25%; margin-bottom: 10px; border-radius: 10px; overflow: hidden;">
-    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/f-xNxJ9u9Ok" frameborder="0" allowfullscreen style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border-radius: 10px;"></iframe>
-</div>
 
 
 ## Beyond the Desk
