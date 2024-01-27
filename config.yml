@@ -82,12 +82,12 @@ params:
   socialIcons:
     - name: linkedin
       url: "https://www.linkedin.com/in/prashant-milan-katiyar/"
-    - name: twitter
-      url: "https://twitter.com/kprashant__"
+    - name: x 
+      url: "https://x.com/kprashant__"
     - name: "email"
       url: "prashant@cometlabs.in"
-    - name: medium
-      url: "https://medium.com/@kprashant"
+    - name: instagram
+      url: "https://instagram.com/k.prashant__/"
     - name: github
       url: "https://github.com/prashantkatiyar9777"
 

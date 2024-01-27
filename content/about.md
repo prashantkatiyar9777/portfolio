@@ -8,7 +8,7 @@ summary: About
 # cover:
 #   image: "/img/gseaiitd.JPG"
 #   alt: "cometlabs-playground"
-#   caption: 
+#   caption:
 #   relative: false
 
 comments: false
